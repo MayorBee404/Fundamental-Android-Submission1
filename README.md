@@ -1,16 +1,18 @@
 # Dicoding Fundamental Android Submission 1
 
 ##### Screenshots Submission 1
-<img src="https://github.com/MayorBee404/Submission1/blob/master/screenshot/submission1_1.png"
+<img src="https://github.com/MayorBee404/Submission1/blob/master/screenshot/Screenshot_20220306_001820.png"
      alt="Submission1 1"
      style="float: left; margin-right: 10px;"
      width="200" /> 
-<img src="https://github.com/MayorBee404/Submission1/master/screenshot/submission1_2.png"
+<img src="https://github.com/MayorBee404/Submission1/blob/master/screenshot/Screenshot_20220306_001907.png"
      alt="Submission1 2"
      style="float: left; margin-right: 10px;"
      width="200" />
-
-
+<img src="https://github.com/MayorBee404/Submission1/blob/master/screenshot/Screenshot_20220306_001930.png"
+     alt="Submission1 2"
+     style="float: left; margin-right: 10px;"
+     width="200" />
 
 #### Submission 1 Checklists
 - [x] Menampilkan data pada halaman aplikasi dengan minimal jumlah 10 item. (Terpenuhi) <strong>10 item</strong>.
