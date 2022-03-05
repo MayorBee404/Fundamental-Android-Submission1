@@ -21,3 +21,5 @@
 - [x] Menggunakan Parcelable sebagai interface dari obyek data yang akan dikirimkan antar Activity. (Terpenuhi).</strong>
 - [x] Aplikasi tidak force closed. (Terpenuhi)</strong>
 
+#### Review Cheklists
+:star::star::star::star::star:
