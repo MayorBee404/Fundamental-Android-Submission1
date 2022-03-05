@@ -1,6 +1,6 @@
 # Dicoding Fundamental Android Submission 1
 
-##### Screenshots Submission 1
+##### Screenshots Submission 1 <strong>10 item</strong>
 <img src="https://github.com/MayorBee404/Submission1/blob/master/screenshot/Screenshot_20220306_001820.png"
      alt="Submission1 1"
      style="float: left; margin-right: 10px;"
